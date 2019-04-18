@@ -2,7 +2,7 @@
 
 This page provides an archive of previously released versions of the .NET Core runtime, libraries and the .NET Core SDK.
 
-### .NET Core 2.2 - [Current](https://www.microsoft.com/net/core/support) release
+### .NET Core 3.0 - [Current](https://www.microsoft.com/net/core/support) release
 
 | Release Date | Description | Release Notes | |
 | :-- | :-- | :--: | :--: |
